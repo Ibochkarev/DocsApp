@@ -23,7 +23,7 @@
         "vlucas/phpdotenv": "^3.3",
         "ext-json": "*",
         "symfony/console": "^4.2",
-        "symfony/process": "^4.2",
+        "symfony/process": "^5.2",
         "ext-pdo": "*",
         "ext-sqlite3": "*",
         "voku/stop-words": "^2.0",
